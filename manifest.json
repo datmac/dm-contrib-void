@@ -1,0 +1,15 @@
+{
+  "author" : {
+    "name" : "core team"
+  },
+  "title": {
+    "fr" : "Retourne les données envoyées à l'identique",
+    "en" : "Returns the sent data"
+  },
+  "description": {
+    "fr" : "Cette commande renvoit sans changement le contenu qu'elle reçoit. ",
+    "en": "This command passes the input data across to the output without any change"
+  },
+  "parameters" :  {
+  }
+}
