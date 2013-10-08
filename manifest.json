@@ -1,8 +1,5 @@
 {
   "id": "void",
-  "author" : {
-    "name" : "core team"
-  },
   "title": {
     "fr" : "Retourne les données envoyées à l'identique",
     "en" : "Returns the sent data"
